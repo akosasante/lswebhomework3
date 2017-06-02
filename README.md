@@ -11,9 +11,9 @@
 
 ```
 
-My name is: Akosua
+My name is: Akosua A
 
-I like to: Listen to podcasts and watch TV
+I like to: Listen to podcasts and watch TV. I have a soft spot for classic teen-dramas like Degrassi.
 
 I'm learning: Python and javascript development
 
